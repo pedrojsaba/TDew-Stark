@@ -1,2 +1,2 @@
-require 'main'
+require './stark'
 run Sinatra::Application
